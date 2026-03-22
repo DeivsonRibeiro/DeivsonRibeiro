@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
 # 👋 Olá, eu sou o Deivson Ribeiro
 
 💻 Desenvolvedor Full Stack em evolução, focado em criar interfaces modernas e funcionais no front-end, além de desenvolver APIs e sistemas robustos no back-end.
