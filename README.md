@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Deivson Ribeiro
 
-💻 Desenvolvedor Front-End em evolução, focado em criar interfaces modernas e funcionais.
+💻 Desenvolvedor Full Stack em evolução, focado em criar interfaces modernas e funcionais no front-end, além de desenvolver APIs e sistemas robustos no back-end.
 
 ---
 
