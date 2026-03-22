@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Deivson Ribeiro
 
-<!--
-**DeivsonRibeiro/DeivsonRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em evolução, focado em criar interfaces modernas e funcionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+* ⚛️ React.js
+* ▲ Next.js
+* 🎨 Tailwind CSS
+* 🟨 JavaScript
+* 🌐 HTML & CSS
+* 🔧 Git & GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Sistema de Loja Virtual
+🔹 Site de Clínica
+🔹 Landing Page de Hamburgueria
+🔹 Blog em desenvolvimento
+
+👉 Confira todos os projetos nos repositórios abaixo
+
+---
+
+## 📈 Em constante evolução
+
+Atualmente estou focado em:
+
+* Aprimorar React e Next.js
+* Criar projetos mais completos (com API e banco de dados)
+* Evoluir como desenvolvedor profissional
+
+---
+
+## 🎯 Objetivo
+
+Buscando minha primeira oportunidade como desenvolvedor front-end, onde eu possa aplicar meus conhecimentos e continuar evoluindo.
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/DeivsonRibeiro
+* LinkedIn: (adicione aqui)
+
+---
+
+## ⚡ Diferencial
+
+✔️ Comprometido com aprendizado contínuo
+✔️ Prática constante com projetos reais
+✔️ Evolução visível a cada projeto
+
+---
